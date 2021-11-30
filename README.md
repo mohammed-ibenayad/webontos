@@ -2,6 +2,7 @@
 
 <!--
 **webontos/webontos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on sharpening my programming skills and developing web apps with Django Framework.
 
@@ -16,4 +17,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/mohammed-iben-ayad/
 
 - ⚡ Fun fact: I work to NOT to work
--->
+
