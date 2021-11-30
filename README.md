@@ -12,9 +12,9 @@
 
 - 🤔 I’m looking for help to understand the fundamentals of things.
 
-- 💬 Ask me about Software Project Management and How to define and achieve goals.
+- 💬 Ask me about **Software Project Management** and How to define and achieve goals.
 
 - 📫 How to reach me: https://www.linkedin.com/in/mohammed-iben-ayad/
 
-- ⚡ Fun fact: I work to NOT to work
+- ⚡ Fun fact: _I work to NOT to work_
 
