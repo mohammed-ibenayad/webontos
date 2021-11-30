@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammed Iben Ayad 👋
+### Hi there, I'm Mohammed Iben-ayad 👋
 
 <!--
 **webontos/webontos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
