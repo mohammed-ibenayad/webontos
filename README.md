@@ -18,3 +18,4 @@
 
 - ⚡ Fun fact: _I work to NOT to work_
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=webontos&show_icons=true alt=webontos /> </p>
