@@ -4,9 +4,9 @@
 **webontos/webontos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on sharpening my programming skills and developing web apps with Django Framework.
+- 🔭 I’m currently working on sharpening my programming skills and developing web apps using Django Framework.
 
-- 🌱 I’m currently learning Django Framework and many other related interesting things.
+- 🌱 I’m currently learning Django Framework.
 
 - 👯 I’m looking to collaborate on Open Source Django projects.
 
